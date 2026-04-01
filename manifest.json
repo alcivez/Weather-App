@@ -1,0 +1,28 @@
+{
+  "name": "WeatherSync",
+  "short_name": "WeatherSync",
+  "description": "Clima inteligente con 3 fuentes meteorológicas · GFS · ECMWF · WTTR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06101e",
+  "theme_color": "#06101e",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["weather", "utilities"],
+  "screenshots": []
+}
